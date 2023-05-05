@@ -1,6 +1,6 @@
 {
 "Version":"2",
-"Url":"LINKFILE",
+"Url":"https://github.com/MrRKeo/VPNMKEOKH152004/blob/main/VPNMKEO2026.zip",
 "Changelog":"
 
 Hello would!!!?
