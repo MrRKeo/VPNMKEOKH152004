@@ -1,21 +1,13 @@
 {
-"Version":"5.5.0",
+"Version":"5.6.0",
 "Url":"https://raw.githubusercontent.com/MrRKeo/VPNMKEOKH152004/main/VPNMKEO2026.zip",
 "Changelog":"
 
 🇹🇭Thailand Server Free7ថ្ងៃ
-🇹🇭Thailand Server Free4ថ្ងៃ
-🇸🇬Singapore Server Free7ថ្ងៃ
-🇸🇬Singapore Server Free4ថ្ងៃ
-🇩🇪Germany Server Free4ថ្ងៃ
-🇭🇲Australia Server Free4ថ្ងៃ
-🇭🇲Australia Server Free7ថ្ងៃ
-🇨🇦Canada Server Free7ថ្ងៃ
-🇨🇦Canada Server Free4ថ្ងៃ
-🏴󠁧󠁢󠁥󠁮󠁧󠁿England Server Free4ថ្ងៃ
-🇮🇩Poland Server Free4ថ្ងៃ
-🇮🇩Poland Server Free7ថ្ងៃ
+🇹🇭Thailand Server Free7ថ្ងៃ
 🇸🇬Singapore Server Free30ថ្ងៃ
+🇸🇬Singapore Server Free4ថ្ងៃ
+
 🧑‍💻លេងដោយនៅទទួលការខុសត្រូវរៀបចំដោយ÷M.K.O.TEAM
 
 
