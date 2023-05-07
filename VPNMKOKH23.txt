@@ -1,6 +1,6 @@
 {
 
-"Version":"5.10.0",
+"Version":"5.11.0",
 
 "Url":"https://raw.githubusercontent.com/MrRKeo/VPNMKEOKH152004/main/VPNMKEO2026.zip",
 
