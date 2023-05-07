@@ -1,5 +1,5 @@
 {
-"Version":"5.6.0",
+"Version":"5.7.0",
 "Url":"https://raw.githubusercontent.com/MrRKeo/VPNMKEOKH152004/main/VPNMKEO2026.zip",
 "Changelog":"
 
